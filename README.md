@@ -85,22 +85,31 @@ kelompok usia yang memiliki presentase terbesar untuk mengambil produk setelah p
 
 ## Modelling & Evaluation
 ## Model Comparison
+
 <img width="417" alt="Screenshot 2023-10-19 at 00 48 46" src="https://github.com/putrikirey11/Final-Project/assets/131474475/374746e0-088c-438d-ac8b-40d80fc405e0">
+
 Dengan mencoba 5 algoritma model di atas, nilai akurasi dan precision paling tinggi diperoleh oleh Decision Tree dengan akurasi 90% dan precision 95%.
 
 ## Decision Tree & Hyperparameter Tuning
+
 <img width="226" alt="Screenshot 2023-10-19 at 00 50 52" src="https://github.com/putrikirey11/Final-Project/assets/131474475/f2a7d0bd-a10c-4e7b-90a5-060ad7d9eaa6">
 
 **Confusion Matrix**
+
 ![Picture1](https://github.com/putrikirey11/Final-Project/assets/131474475/81a70573-6ea1-4be2-aa66-49c88e93c4ec)
 
 ## Feature Importance
+
 ![6](https://github.com/putrikirey11/Final-Project/assets/131474475/4e2f572e-70fb-4a97-9f7d-4ed83ccbbc0f)
+
 Jumlah penghasilan berpengaruh terhadap keputusan customer untuk membeli package. Calon customer yang sudah memiliki paspor atau yang duration of pitch nya lebih lama memiliki probabilitasnya yg lebih tinggi untuk membeli package. 
 
 ## Shap Values
+
 ![7](https://github.com/putrikirey11/Final-Project/assets/131474475/4a866414-4a23-42e9-83ee-17b2ba6cc3bd)
+
 Fitur Passport memiliki kontribusi yang tinggi dalam membuat prediksi. Hal ini menunjukkan bahwa status memiliki paspor dapat mempengaruhi hasil dari pitch penjualan. Mungkin ada faktor-faktor terkait perjalanan atau mobilitas yang mempengaruhi minat atau kemampuan seseorang untuk membeli produk.
+
 # Business Recommendations
 Recommend Customer Type:
 - > 22 menit Duration Of Pitch
