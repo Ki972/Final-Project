@@ -112,7 +112,7 @@ Fitur Passport memiliki kontribusi yang tinggi dalam membuat prediksi. Hal ini m
 
 # Business Recommendations
 Recommend Customer Type:
-- > 22 menit Duration Of Pitch
+- >22 menit Duration Of Pitch
 - Lower Middle Monthly Income ($11.000 - $20.000)
 - Memiliki Passport
 - Preferred Property dengan Star 5
