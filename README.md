@@ -14,7 +14,7 @@ The Members:
 6. Bagus Ario Bimo
 7. Steve
 8. Cholifatur Rohman Dimi Saputra
-## Business Understanding
+# Business Understanding
 Perusahaan Trips&Travel.com merupakan suatu perusahaan dengan model bisni berbasis customer. Saat ini kami memiliki lima tipe paket tersedia; Basic, Standard, Deluxe, Super Deluxe, dan King. Bersamaan dengan paket yang sudah ada kami juga berencana untuk meluncurkan paket baru yang bernama 'Wellness Tourism Package'.
 # Problem Statement
 Hanya 19% customer yang melakukan pembelian package pada tahun lalu.
