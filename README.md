@@ -42,8 +42,8 @@ Terdapat data yang kosong (missing value) pada beberapa kolom data tersebut, sep
 - MonthlyIncome
 
 Untuk type data dari data yang dimiliki sudah sesuai, terdapat 2 jenis type data dalam data tersebut yaitu:
-a. numeric(Type int dan float): CustomerID, ProdTaken, Age, CityTier, DurationOfPitch, NumberOfPersonVisiting, NumberOfFollowups, PreferredPropertyStar, NumberOfTrips, Passport, PitchSatisfactionScore, OwnCar, NumberOfChildrenVisiting, MonthlyIncome.
-b. kategorical(type data object): TypeofContact, Occupation, Gender, ProductPitched,MaritalStatus, Designation.
+- Numeric(Type int dan float): CustomerID, ProdTaken, Age, CityTier, DurationOfPitch, NumberOfPersonVisiting, NumberOfFollowups, PreferredPropertyStar, NumberOfTrips, Passport, PitchSatisfactionScore, OwnCar, NumberOfChildrenVisiting, MonthlyIncome.
+- Categorical(type data object): TypeofContact, Occupation, Gender, ProductPitched,MaritalStatus, Designation.
 ## Univariate Analysis
 ## Numerical Features
 - Pada fitur ProdTaken DurationOfPitch NumberOfPersonVisiting terdapat 1 outlier
