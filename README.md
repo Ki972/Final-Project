@@ -1,5 +1,7 @@
 # Final Project: Holiday Packages Prediction using Machine Learning
-by 7 Bola Naga
+**by 7 Bola Naga**
+
+
 ![logo 7 bola naga](https://github.com/putrikirey11/Final-Project/assets/131474475/6497a4c8-332c-4b38-9603-62ada401e349)
 
 
