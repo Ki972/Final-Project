@@ -66,18 +66,23 @@ Untuk type data dari data yang dimiliki sudah sesuai, terdapat 2 jenis type data
 ## Data Cleansing
 Pada tahap ini dilakukan Handling Missing Values, Handling Incosistent Data, dan Handling Duplicate Data
 ## Business Insight
+
 **Conversion Rate on Gender**
 ![1](https://github.com/putrikirey11/Final-Project/assets/131474475/8e4a8fb2-4929-4ef9-8686-0270872dedc1)
-Jika dibandingkan berdasarkan gender maka dapat dilihat bahwa Male lebih cenderung membeli produk tersebut dibandingkan dengan female. Lebih lanjut Male memiliki porsi sebesar 53,3% diatas female yang memiliki 46,7%
+Jika dibandingkan berdasarkan gender maka dapat dilihat bahwa Male lebih cenderung membeli produk tersebut dibandingkan dengan female. Lebih lanjut Male memiliki porsi sebesar 53,3% diatas female yang memiliki 46,7%.
+
 **Conversion Rate on Type of Contact**
 ![2](https://github.com/putrikirey11/Final-Project/assets/131474475/ddea6feb-6769-4892-95ea-9241de2ac660)
-Jika dibandingkan berdasarkan Type of Contact maka dapat dilihat bahwa Company Invited lebih banyak membeli produk tersebut dibanding self inquiry. Company invited memiliki porsi sebesar 54,7% diatas Self Enquiry yang memiliki 45,3%
+Jika dibandingkan berdasarkan Type of Contact maka dapat dilihat bahwa Company Invited lebih banyak membeli produk tersebut dibanding self inquiry. Company invited memiliki porsi sebesar 54,7% diatas Self Enquiry yang memiliki 45,3%.
+
 **Conversion Rate on Occupation**
 ![3](https://github.com/putrikirey11/Final-Project/assets/131474475/4be970c6-89ae-44be-99ff-5d1c98eebe11)
 Jika dibandingkan berdasarkan Occupation maka dapat dilihat bahwa Free Lancer memiliki 100% product purchase, jauh diatas dibandingkan dengan Large Business, Salaried dan Small Business. Free Lancer sendiri memiliki pangsa pasar sebesar 61.1% lebih besar dari pangsa pasar gabungan Large Business, Salaried dan Small Business.
+
 **Conversion Rate on Age**
 ![4](https://github.com/putrikirey11/Final-Project/assets/131474475/e0120bf2-4fc8-455f-91ba-1132b105884a)
 kelompok usia yang memiliki presentase terbesar untuk mengambil produk setelah pitch produk oleh sales adalah kelompok usia 18-29 tahun (32.1%). "Travel&Trips.com" dapat lelbih berfokus pada kelompok usia ini untuk pitch product terbaru mereka untuk merendahkan cost marketing.
+
 ## Modelling & Evaluation
 ## Model Comparison
 <img width="417" alt="Screenshot 2023-10-19 at 00 48 46" src="https://github.com/putrikirey11/Final-Project/assets/131474475/374746e0-088c-438d-ac8b-40d80fc405e0">
